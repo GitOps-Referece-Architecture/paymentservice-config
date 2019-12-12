@@ -1,0 +1,1 @@
+Service {{ include "paymentservice.name" . }} has been deployed successfully!
